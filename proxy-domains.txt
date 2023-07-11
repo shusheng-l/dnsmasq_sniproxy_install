@@ -108,7 +108,13 @@ dmm-extension.com
 dmmapis.com
 api-p.videomarket.jp
 saima.zlzd.xyz
+platform.openai.com
+beta.openai.com
+auth0.openai.com
+auth1.openai.com
+auth2.openai.com
 openai.com
+chat.openai.com
 cdn.auth0.com
 azureedge.net
 sentry.io
@@ -119,3 +125,5 @@ google-analytics.com
 identrust.com
 challenges.cloudflare.com
 ai.com
+sentry.io
+ios.chat.openai.com
